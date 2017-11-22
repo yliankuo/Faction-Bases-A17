@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>More Faction Bases</name>
+    <author>Swenzi</author>
+    <description> Modifies number of Faction Bases and Factions that are spawned for the Alpha 17 update.
+        
+        
+        v1.0.0
+        - Initial Release</description>
+    <targetVersion>0.17.1546</targetVersion>
+</ModMetaData>
